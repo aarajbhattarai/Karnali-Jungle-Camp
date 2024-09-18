@@ -36,33 +36,43 @@ const SectionOurFeatures: FC<SectionOurFeaturesProps> = ({
 
         <ul className="space-y-10 mt-16">
           <li className="space-y-4">
-            <Badge name="Advertising" />
+            <Badge name="Wildlife" />
             <span className="block text-xl font-semibold">
-              Cost-effective advertising
+              Explore the Wild
             </span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
-              With a free listing, you can advertise your rental with no upfront
-              costs
+              At Karnali Jungle Camp, tiger sight-seeing is our crown jewel. As
+              one of the best places in Nepal to spot the elusive Bengal tiger,
+              every visit promises a thrilling encounter with one of nature's
+              most majestic creatures. You'll also witness an abundance of
+              wildlife, from deer, one-horned rhinos to playful river dolphins,
+              all within their natural habitats.
             </span>
           </li>
           <li className="space-y-4">
-            <Badge color="green" name="Exposure " />
+            <Badge color="green" name="Travel" />
             <span className="block text-xl font-semibold">
-              Reach millions with Chisfis
+              Pioneers in Wildlife Tourism
             </span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
-              Millions of people are searching for unique places to stay around
-              the world
+              Across Nepal, we have pioneered responsible wildlife tourism,
+              offering authentic and immersive experiences for travelers seeking
+              more than just a vacation. Our knowledgeable guides take you on an
+              unforgettable journey through the jungle, where every step unveils
+              the magic of the wild.
             </span>
           </li>
           <li className="space-y-4">
-            <Badge color="red" name="Secure" />
+            <Badge color="red" name=" Sustainable" />
             <span className="block text-xl font-semibold">
-              Secure and simple
+              Sustainable Eco-Tourism
             </span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
-              A Holiday Lettings listing gives you a secure and easy way to take
-              bookings and payments online
+              Sustainability lies at the core of everything we do. From our
+              eco-friendly accommodations to the sustainable practices
+              implemented across our operations, we are dedicated to preserving
+              the environment. Our efforts ensure that the beauty of Bardiya
+              remains untouched for generations to come.
             </span>
           </li>
         </ul>
